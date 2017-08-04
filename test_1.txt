@@ -1,0 +1,14 @@
+a := 3
+print a;
+if 3>2 then
+	
+	a := a + 3 ;
+	b := 2 + a ;
+	print b;
+	print a;
+else
+	print 4;	
+fi
+
+print a;
+print b;
